@@ -16,6 +16,8 @@
   <a href="https://github.com/BSSE23105?tab=followers"><img src="https://img.shields.io/github/followers/BSSE23105?style=flat-square&logo=github&color=bb9af7&labelColor=1a1b26&label=followers" alt="GitHub followers"/></a>
   &nbsp;
   <img src="https://img.shields.io/badge/Lahore,_Pakistan-1a1b26?style=flat-square&logo=googlemaps&logoColor=9ece6a" alt="Lahore, Pakistan"/>
+  &nbsp;
+  <a href="https://abdulqadir-developer.vercel.app/"><img src="https://img.shields.io/badge/🌐_Portfolio-1a1b26?style=flat-square&logo=vercel&logoColor=bb9af7" alt="Portfolio website"/></a>
 </p>
 
 ---
@@ -248,6 +250,7 @@ Freelance projects delivered for real clients — **source code is private under
 ## 🤝 Let's Connect
 
 <p align="center">
+  <a href="https://abdulqadir-developer.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-abdulqadir--developer.vercel.app-bb9af7?style=for-the-badge&logo=vercel&logoColor=c0caf5&labelColor=1a1b26" alt="Portfolio website"/></a>
   <a href="https://www.linkedin.com/in/muhammad-abdul-qadir100"><img src="https://img.shields.io/badge/LinkedIn-muhammad--abdul--qadir100-0A66C2?style=for-the-badge&labelColor=1a1b26" alt="LinkedIn"/></a>
   <a href="mailto:muhammadabdulqadir222@gmail.com"><img src="https://img.shields.io/badge/Gmail-muhammadabdulqadir222-EA4335?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=1a1b26" alt="Gmail"/></a>
   <a href="mailto:bsse23105@itu.edu.pk"><img src="https://img.shields.io/badge/University-bsse23105@itu.edu.pk-7dcfff?style=for-the-badge&labelColor=1a1b26" alt="University email"/></a>
